@@ -1,5 +1,5 @@
 # EDGAR
-EDGAR form &amp; traffic log download and analysis
+Download and analysis of EDGAR filings and traffic log files 
 
 Hao Ding (haodingresearch@gmail.com)
 
