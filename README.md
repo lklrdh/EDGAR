@@ -10,9 +10,10 @@ The script is written in a Jupyter notebook and can be run seamlessly in Google 
 
 If you use the code, please cite the paper: Ding, Hao, Retail Investor Attention and Mutual Fund Performance: Evidence from EDGAR Log Files.
 
+```
 @article{Ding2024EDGARtraffic,
   title={BERT Embeddings for Automatic Readability Assessment},
-  author={Ding, Hao,
+  author={Ding, Hao},
   year={2024}
 }
-
+```
