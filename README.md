@@ -14,7 +14,7 @@ If you use the code, please cite the paper: Ding, Hao, Retail Investor Attention
 
 ```
 @article{Ding2024EDGARtraffic,
-  title={BERT Embeddings for Automatic Readability Assessment},
+  title={Retail Investor Attention and Mutual Fund Performance: Evidence from EDGAR Log Files},
   author={Ding, Hao},
   year={2024}
 }
